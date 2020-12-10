@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**jjuliano/jjuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**king-prawns/king-prawns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Joel Bryan Juliano's github stats](https://github-readme-stats.vercel.app/api?username=jjuliano&count_private=true&show_icons=true&hide=contribs)](https://github.com/jjuliano)
