@@ -1,4 +1,4 @@
-[![Joel Bryan Juliano's github stats](https://github-readme-stats.vercel.app/api?username=jjuliano&count_private=true&show_icons=true&hide=contribs)](https://github.com/jjuliano)
+[![Joel Bryan Juliano's github stats](https://github-readme-stats.vercel.app/api?username=jjuliano&count_private=true&show_icons=true&hide=contribs,prs,issues&include_all_commits=true)](https://github.com/jjuliano)
 
 ### Hi there 👋
 
