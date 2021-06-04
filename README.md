@@ -4,7 +4,7 @@
 
 I'm Joel. I am a software engineer with 12+ years of experience. I sometimes make software products on my free time.
 
-See *some* of my stuffs here:
+See my stuffs here:
 
 - [From Ruby to Golang](https://leanpub.com/rb2go) - A book for Rubyist learning Go
 - [bato](https://www.theregister.com/2018/03/21/philippines_ruby_bato/) - Featured in The Register - A programming language in Tagalog
