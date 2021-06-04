@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Joel. I am a software engineer that sometimes make my own products. I don't claim a big title like CEO or founder of them, but just some engineer who sometimes saw a need for it and uses it's brain to make them, but hey! that'll be cool.
+I'm Joel. I am a software engineer with 12+ years of experience. I sometimes make software products on my free time.
 
 See *some* of my stuffs here:
 
